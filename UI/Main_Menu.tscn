@@ -37,7 +37,7 @@ linear_velocity = Vector2(800, 550)
 
 [node name="Ball2" parent="." instance=ExtResource("4")]
 position = Vector2(760, 560)
-linear_velocity = Vector2(-800, -500)
+linear_velocity = Vector2(-100, -500)
 
 [node name="Label" type="Label" parent="."]
 layout_mode = 0
